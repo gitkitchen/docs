@@ -1,2 +1,2 @@
-# docs
-Documentation for the Git Kitchen project
+# Documentation
+Welcome to Git Kitchen! Details coming soon, but TLDR: a restaurant based on crowd-sourced recipes.
